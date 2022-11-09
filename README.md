@@ -1,5 +1,7 @@
 # Hello :D
 ## My name is Luiz Henrique Almeida Ribeiro and my nickname is "Rouiszinho"
+
+<img src=" https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" width="50px">
 <!--
 **Rouiszinho/Rouiszinho** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
