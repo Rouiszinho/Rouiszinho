@@ -8,7 +8,7 @@
 <a href="mailto:ribeiroluizhenrique004@gmail.com" alt="Gmail" target="_blank">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
- <a href="https://www.linkedin.com/in/luiz-henrique-almeida-ribeiro" target="_blank">
+ <a href="https://www.linkedin.com/in/luiz-henrique-almeida-ribeiro-5853a7249/" target="_blank">
   <img alt="Eric-Linkedin" height="35" widht="120" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
 </div>
