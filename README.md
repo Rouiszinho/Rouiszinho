@@ -1,6 +1,6 @@
 # Hello :D
 ## My name is Luiz Henrique Almeida Ribeiro and my nickname is "Rouiszinho"
-### Status
+### Social media:
 <div style="display: inline_block" align="center">
 <a href="https://www.instagram.com/luuiz_ar" alt="Instagram" target="_blank">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=for-the-badge&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/Rouis">
@@ -11,6 +11,7 @@
  <a href="https://www.linkedin.com/in/luiz-henrique-almeida-ribeiro-5853a7249/" target="_blank">
   <img alt="Eric-Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
+ ### knowledge in:
 </div>
 <div style="display: inline_block" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" height="50">
