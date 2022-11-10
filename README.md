@@ -11,7 +11,7 @@
  <a href="https://www.linkedin.com/in/luiz-henrique-almeida-ribeiro-5853a7249/" target="_blank">
   <img alt="Eric-Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
 </a> 
-<h3>knowledge in:</h3>
+<h3 alingn="left">knowledge in:</h3>
 </div>
 <div style="display: inline_block" align="center">
 <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50px" height="50">
