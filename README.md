@@ -1,5 +1,5 @@
 # Hello :D
-## My name is Luiz Henrique Almeida Ribeiro and my nickname is "Rouiszinho"
+## My name is Luiz but my nickname is "Rouiszinho"
 ### Social media:
 <div style="display: inline_block" align="center">
   <a href="https://www.instagram.com/luuiz_ar" alt="Instagram" target="_blank">
